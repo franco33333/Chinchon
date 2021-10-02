@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chinchón</string>
+    <string name="texto">Seleccione la cantidad de jugadores</string>
+    <string name="boton1">2 jugadores</string>
+    <string name="boton2">3 jugadores</string>
+    <string name="boton3">4 jugadores</string>
+    <string name="boton4">5 jugadores??</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
