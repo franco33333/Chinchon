@@ -36,6 +36,7 @@ public class Jugadores2 extends AppCompatActivity {
         String nom2 = getIntent().getStringExtra("nombre2");
         nombre1.setText(nom1);
         nombre2.setText(nom2);
+
     }
 
     @Override
