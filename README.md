@@ -2,7 +2,7 @@
 ## Anotador de Chinchón
 
 Consiste en un anotador del juego de cartas Chinchón para hasta 4 jugadores por ahora.
-El projecto fue desarrollado en mi tiempo libre mientras estudiaba Android Studio con Java.
+El proyecto fue desarrollado en mi tiempo libre mientras estudiaba Android Studio con Java.
 
 ## Imágenes
 ![SeleccionCantidadJug](https://user-images.githubusercontent.com/58864574/150442167-2e729136-5a22-4e51-9aec-7a1136f27ee7.jpeg)
